@@ -9,7 +9,10 @@ Google アカウントでログインし，「ファイル → ドライブに�
 接続後，上から順に準備セルを実行してください。必要な CSV は公開 URL から読み込むため，
 通常はアップロード不要です。ノートを開くだけではコードは実行されません。
 
-## 実習ノートブック
+## 講義・実習ノートブック
+
+各回につき一つのノートを使います。前半は講義の説明に沿って実行し，
+後半の約 20 分の演習では，自分で条件を変えて調べます。演習の解答は含みません。
 
 | 回・内容 | ブラウザーで実行 | ファイル |
 | --- | --- | --- |
@@ -19,14 +22,16 @@ Google アカウントでログインし，「ファイル → ドライブに�
 | 春第 3 回｜分布と欠損値 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/03_distributions.ipynb) | [.ipynb](practice/03_distributions.ipynb) |
 | 春第 4 回｜グループ集計と割合 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/flight-rankings.ipynb) | [.ipynb](practice/flight-rankings.ipynb) |
 | 春第 5 回｜測定とデータの来歴 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/05_measurement.ipynb) | [.ipynb](practice/05_measurement.ipynb) |
-| 第 6 章の実習　表の結合 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/06_joins.ipynb) | [.ipynb](practice/06_joins.ipynb) |
-| 第 7 章の実習　比較の可視化 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/07_visual_comparison.ipynb) | [.ipynb](practice/07_visual_comparison.ipynb) |
-| 第 8 章の実習　標本抽出と偏り | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/08_sampling.ipynb) | [.ipynb](practice/08_sampling.ipynb) |
-| 第 9 章の実習　ブートストラップ | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/09_bootstrap.ipynb) | [.ipynb](practice/09_bootstrap.ipynb) |
-| 第 10 章の実習　置換検定 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/10_randomization.ipynb) | [.ipynb](practice/10_randomization.ipynb) |
-| 第 11 章の実習　日時と時間の変化 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/11_time.ipynb) | [.ipynb](practice/11_time.ipynb) |
-| 第 12 章の実習　変数間の関係 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/12_relationships.ipynb) | [.ipynb](practice/12_relationships.ipynb) |
-| 第 13 章の実習　分析手順と再現性 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/13_reproducibility.ipynb) | [.ipynb](practice/13_reproducibility.ipynb) |
+| 第 6 章の講義と実習　表の結合 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/06_joins.ipynb) | [.ipynb](practice/06_joins.ipynb) |
+| 第 7 章の講義と実習　比較の可視化 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/07_visual_comparison.ipynb) | [.ipynb](practice/07_visual_comparison.ipynb) |
+| 第 8 章の講義と実習　標本抽出と偏り | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/08_sampling.ipynb) | [.ipynb](practice/08_sampling.ipynb) |
+| 第 9 章の講義と実習　ブートストラップ | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/09_bootstrap.ipynb) | [.ipynb](practice/09_bootstrap.ipynb) |
+| 第 10 章の講義と実習　置換検定 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/10_randomization.ipynb) | [.ipynb](practice/10_randomization.ipynb) |
+| 第 11 章　日時と時間の変化 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/11_time.ipynb) | [.ipynb](practice/11_time.ipynb) |
+| 第 12 章　変数間の関係 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/12_relationships.ipynb) | [.ipynb](practice/12_relationships.ipynb) |
+| 第 13 章　分析手順と再現性 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/13_reproducibility.ipynb) | [.ipynb](practice/13_reproducibility.ipynb) |
+| 第 14 章　比較条件と結論 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/14_comparisons.ipynb) | [.ipynb](practice/14_comparisons.ipynb) |
+| 第 15 章　分析の統合 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/15_inquiry.ipynb) | [.ipynb](practice/15_inquiry.ipynb) |
 
 ## 自分の PC で使う
 
