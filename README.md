@@ -1,0 +1,51 @@
+# Python で学ぶデータ分析：実習サポート
+
+講義で使うノートブックとデータの配布場所です。教材は作成・検証を続けています。
+
+## Colab で始める
+
+下の「Colab で開く」から対象のノートブックを開きます。自分の書き込みを残すには，
+Google アカウントでログインし，「ファイル → ドライブにコピーを保存」を選びます。
+接続後，上から順に準備セルを実行してください。必要な CSV は公開 URL から読み込むため，
+通常はアップロード不要です。ノートを開くだけではコードは実行されません。
+
+## 実習ノートブック
+
+| 回・内容 | ブラウザーで実行 | ファイル |
+| --- | --- | --- |
+| 実行環境の確認 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/00_environment.ipynb) | [.ipynb](practice/00_environment.ipynb) |
+| 春第 1 回｜データ分析と Python | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/01_python.ipynb) | [.ipynb](practice/01_python.ipynb) |
+| 春第 2 回｜表データと条件抽出 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/02_tables.ipynb) | [.ipynb](practice/02_tables.ipynb) |
+| 春第 3 回｜分布と欠損値 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/03_distributions.ipynb) | [.ipynb](practice/03_distributions.ipynb) |
+| 春第 4 回｜グループ集計と割合 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/flight-rankings.ipynb) | [.ipynb](practice/flight-rankings.ipynb) |
+| 春第 5 回｜測定とデータの来歴 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/05_measurement.ipynb) | [.ipynb](practice/05_measurement.ipynb) |
+| 第 6 章の実習　表の結合 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/06_joins.ipynb) | [.ipynb](practice/06_joins.ipynb) |
+| 第 7 章の実習　比較の可視化 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/07_visual_comparison.ipynb) | [.ipynb](practice/07_visual_comparison.ipynb) |
+| 第 8 章の実習　標本抽出と偏り | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/08_sampling.ipynb) | [.ipynb](practice/08_sampling.ipynb) |
+| 第 9 章の実習　ブートストラップ | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/09_bootstrap.ipynb) | [.ipynb](practice/09_bootstrap.ipynb) |
+| 第 10 章の実習　置換検定 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/10_randomization.ipynb) | [.ipynb](practice/10_randomization.ipynb) |
+| 第 11 章の実習　日時と時間の変化 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/11_time.ipynb) | [.ipynb](practice/11_time.ipynb) |
+| 第 12 章の実習　変数間の関係 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/12_relationships.ipynb) | [.ipynb](practice/12_relationships.ipynb) |
+| 第 13 章の実習　分析手順と再現性 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/13_reproducibility.ipynb) | [.ipynb](practice/13_reproducibility.ipynb) |
+
+## 自分の PC で使う
+
+[ノートブックとデータの ZIP](practice/book-practice.zip) をダウンロードして展開します。
+Positron または Jupyter でノートブックを開き，Python のカーネルを選んで実行します。
+CSV が同じフォルダーにあれば，インターネットから取り直さず，そのファイルを読みます。
+必要なパッケージは [requirements.txt](practice/requirements.txt) を参照してください。
+
+## データと出典
+
+[data フォルダー](data/) に CSV と出典の説明があります。
+運航記録は [data/README.md](data/README.md)，その他は各 `*-sources.md` を参照してください。
+データごとに配布元・加工・利用条件が異なります。教材の説明と元データの利用条件は別です。
+ファイルの一覧と SHA-256 は [manifest.json](manifest.json) に記録しています。
+
+## 困ったとき
+
+最初の準備セルから順番に実行してください。読み込みに失敗する場合は，接続状態を確認するか，
+ZIP の CSV を使ってください。質問には章・セル・エラー名と，何を実行したかを添えてください。
+個人情報や非公開データは投稿しないでください。
+
+© 2026 Sohei Takagi

@@ -1,0 +1,162 @@
+[
+  {
+    "path": "practice/00_environment.ipynb",
+    "bytes": 2949,
+    "sha256": "54398d866ff71855fd3cae8842e741fb31548f23879671876b9ede3882b7f5be"
+  },
+  {
+    "path": "practice/01_python.ipynb",
+    "bytes": 13264,
+    "sha256": "84b19995e2aa9bcab42ba2a50082fda87dca0bcfcc5c97e44b481a314cfe20d3"
+  },
+  {
+    "path": "practice/02_tables.ipynb",
+    "bytes": 11960,
+    "sha256": "0f12e94a414248df92f6be8b1b09f07c5caee730b6aa19ebb1ae8814a8518b98"
+  },
+  {
+    "path": "practice/03_distributions.ipynb",
+    "bytes": 10398,
+    "sha256": "d489c6ab1a660f0d5a092c2c78b2e172d9a0fcba0a514236b312a5f35c1dbe57"
+  },
+  {
+    "path": "practice/flight-rankings.ipynb",
+    "bytes": 9141,
+    "sha256": "2984dcfef4c9016a78f51ca684c400a0ad7fdf6efbceb7574ef12a434f9be605"
+  },
+  {
+    "path": "practice/05_measurement.ipynb",
+    "bytes": 8545,
+    "sha256": "67b2a7f5ae4fa41798ef40909888a5dede633d6fa567a4ef38750e3853a6aa79"
+  },
+  {
+    "path": "practice/06_joins.ipynb",
+    "bytes": 10657,
+    "sha256": "b1b0987fa2faa2b248b5372c6e71e6eaa0e364f5e8a3433f9790462d90799070"
+  },
+  {
+    "path": "practice/07_visual_comparison.ipynb",
+    "bytes": 8302,
+    "sha256": "ee565d860fff31f19bd650abf78e4a783b4a783f26cafd2cb00f926e3501b3c5"
+  },
+  {
+    "path": "practice/08_sampling.ipynb",
+    "bytes": 10617,
+    "sha256": "319e750692ed9a30e57591da6281bf7716cee1a353b0a35f55162d0154324c36"
+  },
+  {
+    "path": "practice/09_bootstrap.ipynb",
+    "bytes": 8556,
+    "sha256": "16ff15b0e7d879a9a9a2d30bbd08a20a2a0bd5cd1f1c195d3e2779cc6677a403"
+  },
+  {
+    "path": "practice/10_randomization.ipynb",
+    "bytes": 11950,
+    "sha256": "d291463fc999d0bd406faa6d1cc469c69c7bd1ae30d1e70070a2210596253c28"
+  },
+  {
+    "path": "practice/11_time.ipynb",
+    "bytes": 7898,
+    "sha256": "def83ac0d1e5d30b5774a07f80acc0fe3696a1bdabbfae08dfd567b556e46492"
+  },
+  {
+    "path": "practice/12_relationships.ipynb",
+    "bytes": 8463,
+    "sha256": "ec3b5ce245cc1f9c83a3ebd20bbdbe528e016022bb4b3af96a2ecb2a2a4b46de"
+  },
+  {
+    "path": "practice/13_reproducibility.ipynb",
+    "bytes": 13154,
+    "sha256": "d8316b8b426aa50f20f577e5cc91457733ec0d281a137c14161e1c0254f3d5e2"
+  },
+  {
+    "path": "practice/requirements.txt",
+    "bytes": 46,
+    "sha256": "c86d6d9d4823ebd4d61f13c495337c0a0c8210fa247184028ba73675e86a3cbe"
+  },
+  {
+    "path": "data/nyc-flights-2024-01.csv",
+    "bytes": 1134502,
+    "sha256": "a238940f776efe65f209491c852b32dc7b81726f0d20857e0045e33f1157cf35"
+  },
+  {
+    "path": "data/ssdse-school-2024.csv",
+    "bytes": 85730,
+    "sha256": "ac162d4e2aad57fa5ef3b78a043e6f3882e0433d08daf865aec50d1188405beb"
+  },
+  {
+    "path": "data/ssdse-sources.md",
+    "bytes": 2100,
+    "sha256": "3f13f3e2fafb62d7b15f664c4460609ad2f9d38dbabc4dd9bf5f538f42d9fcc6"
+  },
+  {
+    "path": "data/ssdse-a-2026-guide.pdf",
+    "bytes": 1466470,
+    "sha256": "052f09a0ae927fc33ae286bc29c4e12243c17d50075c63ba93aed43c057ab6a6"
+  },
+  {
+    "path": "data/census-municipalities-2015.csv",
+    "bytes": 58942,
+    "sha256": "e3e1c1c2734fd61612486aa1c16f8c5e4ae104671911c354192bd505d78616c8"
+  },
+  {
+    "path": "data/census-municipalities-2020.csv",
+    "bytes": 58939,
+    "sha256": "6a85346ca37b00e5f4bd51dea013318407f1698a6cbb1ea89abb4f74d60ca59c"
+  },
+  {
+    "path": "data/census-fuchu-areas.csv",
+    "bytes": 196,
+    "sha256": "f3029e679c0d27c9bab61ec9a357090f8e6b0d40b165461d929498e164b64804"
+  },
+  {
+    "path": "data/census-sources.md",
+    "bytes": 8497,
+    "sha256": "efa9286dccb85e816fa918f454f28afb7ba240c94ab705bb05ecbc0e6a3e0825"
+  },
+  {
+    "path": "data/penguins.csv",
+    "bytes": 15241,
+    "sha256": "f204db2c753b0937caac3cb35258562c14f073e4bbc76be24b4c51ce22767a93"
+  },
+  {
+    "path": "data/penguins-sources.md",
+    "bytes": 3770,
+    "sha256": "fccc06ce8e6d47bc2b31d7418bb95666176012a13f927464fa802d3c296d26d8"
+  },
+  {
+    "path": "data/mosquito-experiment.csv",
+    "bytes": 5928,
+    "sha256": "b08f854782499e26305add3f32688f84383b0a11036e7c172d4a64ad1a8fd5f3"
+  },
+  {
+    "path": "data/mosquito-sources.md",
+    "bytes": 3173,
+    "sha256": "28646deb683b9b500182990ceb65fdcf060ff5dcfb6ec226d75135623fe8a982"
+  },
+  {
+    "path": "data/bike-sharing-hourly.csv",
+    "bytes": 1139356,
+    "sha256": "b03a2d02e8c10f435c43c7f0b358b7e34a003afea53dbc37f0183f2763295133"
+  },
+  {
+    "path": "data/bike-sharing-daily.csv",
+    "bytes": 56837,
+    "sha256": "537e98e2c8b8f53e3094d953f847788b1dc224764a4a1e538b3e1ec4e30dac8a"
+  },
+  {
+    "path": "data/bike-sharing-sources.md",
+    "bytes": 4994,
+    "sha256": "150ec0ece7a4ff883db0c4b45cde950af1542ba09134a59756d430572e8d1ad5"
+  },
+  {
+    "path": "data/README.md",
+    "bytes": 989,
+    "sha256": "037b1a3e4ac8f9250028cdad10279ffc517d7113a549cb61a35373c1b4a2772d"
+  },
+  {
+    "path": "practice/book-practice.zip",
+    "bytes": 2075439,
+    "sha256": "e5007a83a59781deded9238e4259040b9de56b56382f863356d70c019bdc3155"
+  }
+]
