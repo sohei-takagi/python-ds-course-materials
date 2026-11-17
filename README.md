@@ -32,6 +32,8 @@ Google アカウントでログインし，「ファイル → ドライブに�
 | 第 13 章　分析手順と再現性 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/13_reproducibility.ipynb) | [.ipynb](practice/13_reproducibility.ipynb) |
 | 第 14 章　比較条件と結論 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/14_comparisons.ipynb) | [.ipynb](practice/14_comparisons.ipynb) |
 | 第 15 章　分析の統合 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/15_inquiry.ipynb) | [.ipynb](practice/15_inquiry.ipynb) |
+| 第 16 章　予測課題と検証 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/16_prediction.ipynb) | [.ipynb](practice/16_prediction.ipynb) |
+| 第 17 章　線形回帰 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/17_linear_regression.ipynb) | [.ipynb](practice/17_linear_regression.ipynb) |
 
 ## 自分の PC で使う
 

@@ -80,9 +80,19 @@
     "sha256": "c4d118644c7ef340350fc81cb5060a146b52d27d82e5dcc33924c443d38a6893"
   },
   {
+    "path": "practice/16_prediction.ipynb",
+    "bytes": 19498,
+    "sha256": "2842a52ba9c1a3b1f0314e73214ab06c7ee18168e85f32ac457630d986905eee"
+  },
+  {
+    "path": "practice/17_linear_regression.ipynb",
+    "bytes": 19142,
+    "sha256": "8cc400ebd488d00f0f0df8fd207cb833fb68a25ea13fd74c64d42752b8cdd782"
+  },
+  {
     "path": "practice/requirements.txt",
-    "bytes": 46,
-    "sha256": "c86d6d9d4823ebd4d61f13c495337c0a0c8210fa247184028ba73675e86a3cbe"
+    "bytes": 66,
+    "sha256": "50300fbd4b82dcccdb047e5435a4d88daad7f875782c5dee4233f0b3d7cdd3b7"
   },
   {
     "path": "data/nyc-flights-2024-01.csv",
@@ -176,7 +186,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2140828,
-    "sha256": "0d7f15f037c6819784507ffdd059ca5c8e8b2eb622b63ebaf3018366846fa2c5"
+    "bytes": 2153161,
+    "sha256": "439770771ade4e865c5c00a01e32310c45eb298bec570f7c18441455f0b0f72b"
   }
 ]
