@@ -1,83 +1,83 @@
 [
   {
     "path": "practice/00_environment.ipynb",
-    "bytes": 2949,
-    "sha256": "54398d866ff71855fd3cae8842e741fb31548f23879671876b9ede3882b7f5be"
+    "bytes": 5308,
+    "sha256": "ee9e4cb534062b229c7f05b3de1813a1b6fd5c5bfd3ac21d45b3082b65ed2c86"
   },
   {
     "path": "practice/01_python.ipynb",
-    "bytes": 30404,
-    "sha256": "96092a99333c03ea8526537ebf62290e4923c7a5ac616c35bedb47b701c16564"
+    "bytes": 31750,
+    "sha256": "6a12c980e91402ec2a99c897a8005acb675f3f78411498eea795a4bbf3b78c96"
   },
   {
     "path": "practice/02_tables.ipynb",
-    "bytes": 28014,
-    "sha256": "3ef6e44238f758cd32c539cfe0b737add7274c34143284429e5c82b132415a95"
+    "bytes": 29228,
+    "sha256": "9d45d2fd6edb8e1959519327d30335474b0db4484f801ddef3602706aad6cafd"
   },
   {
     "path": "practice/03_distributions.ipynb",
-    "bytes": 26034,
-    "sha256": "984247da5a1f9e673b75de71491c73bf551fbeec47cf8b1adfb5ca8b959594d7"
+    "bytes": 27455,
+    "sha256": "61d0e83878f3924c8c1225475974d5eda4e5d6b1b98f02c8274685082168f8f4"
   },
   {
     "path": "practice/flight-rankings.ipynb",
-    "bytes": 27633,
-    "sha256": "6edf2f499798f856b511769fa57e97179028d5da91239f96d5f528db4eb85e7b"
+    "bytes": 29197,
+    "sha256": "bc978abe43e4026af5b876d01dc1c6ccdfd087c50b42e3ba5cd5ff64bde3496b"
   },
   {
     "path": "practice/05_measurement.ipynb",
-    "bytes": 20875,
-    "sha256": "6fb34a6ce9037d99082824a629dde885ed86577697aa8e3fc8c2ac8b3bc950e8"
+    "bytes": 22245,
+    "sha256": "ce68425b8508c6eb187fc4ddba55783770a6118413eb0c208a1671816841c7ae"
   },
   {
     "path": "practice/06_joins.ipynb",
-    "bytes": 17494,
-    "sha256": "4d3b59a8d6903f72d9c40d31e4cd373b7daeb656fdee438dad45c7d6bf8fa514"
+    "bytes": 19651,
+    "sha256": "1036102fa3934d6f71538392f887bf062aaac55b536c2a416371e944d249223c"
   },
   {
     "path": "practice/07_visual_comparison.ipynb",
-    "bytes": 18665,
-    "sha256": "897cba08cc5e07cd9369331266be73cd9d07f6acd8983845ce99d6741bfea382"
+    "bytes": 20107,
+    "sha256": "dab8ac6f3609f2c2c89a362fbb37ee98b86596234ad43a97838ba2b53896b450"
   },
   {
     "path": "practice/08_sampling.ipynb",
-    "bytes": 18519,
-    "sha256": "dc8991414c61a02f9998a29567f4c9aa9b35ad4a8f0a26588462bf10afc9622e"
+    "bytes": 20536,
+    "sha256": "0dd6733120b293e5efd0e5b3a54c9e084b6a113e21202b32800c38408c5e58df"
   },
   {
     "path": "practice/09_bootstrap.ipynb",
-    "bytes": 16691,
-    "sha256": "0d936f4d5adc5a93dd74d6b4383a22a2e2e48de1c2de928996a2663a0379d393"
+    "bytes": 18501,
+    "sha256": "b3eacbeaf0f2f11d03300ac55a640d7dc36e557260bbe76523ec4e9f6d9dac15"
   },
   {
     "path": "practice/10_randomization.ipynb",
-    "bytes": 20744,
-    "sha256": "78782cb1866f920336ca9e96cfaad81c51c2aa095b8f147db6138945099717b8"
+    "bytes": 23622,
+    "sha256": "b291d44d1453adcfffe1ef720ef0eaeacfccff0aa21c9149ad572bae95f9adf4"
   },
   {
     "path": "practice/11_time.ipynb",
-    "bytes": 20587,
-    "sha256": "7830f30dfc50abe9e29a36e0a4c0074a5314abd7ea27234434d7b895b9888f17"
+    "bytes": 27380,
+    "sha256": "96b338efd304c34e67e8ba9780690e3e2a13312e46913cc6e211d032ed95f608"
   },
   {
     "path": "practice/12_relationships.ipynb",
-    "bytes": 22004,
-    "sha256": "b7906072047fa3d600509fba05449523cb51d9f4523e65f35f1295d54e6187a2"
+    "bytes": 28311,
+    "sha256": "a647c508a94ba1aaf4b5c84995dcfad7d3ae99c047e0e53a949e830fdc710ea4"
   },
   {
     "path": "practice/13_reproducibility.ipynb",
-    "bytes": 24450,
-    "sha256": "048d45954053d2e13e0f94eecf4028d001fcb32fdb8bc27a9bdddeee300e7e02"
+    "bytes": 29908,
+    "sha256": "55a0b1fd58c906c149732d3a0de8aa205915308cc20a1f5f159f7f6918c4b92c"
   },
   {
     "path": "practice/14_comparisons.ipynb",
-    "bytes": 21682,
-    "sha256": "a6eda1997f05105ff0bf0d641ae80c7e1f7797808b0920b5d1e3b13d05e05925"
+    "bytes": 25780,
+    "sha256": "7e70e7e6621c72ed72634844204c332b45489145e21ec36d79021f600ebbda8d"
   },
   {
     "path": "practice/15_inquiry.ipynb",
-    "bytes": 33223,
-    "sha256": "e933041838266acfcd19a62fe2e9ce27ffc6ef84e1b0eff93497b188b26bb39c"
+    "bytes": 40581,
+    "sha256": "c4d118644c7ef340350fc81cb5060a146b52d27d82e5dcc33924c443d38a6893"
   },
   {
     "path": "practice/requirements.txt",
@@ -176,7 +176,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2126732,
-    "sha256": "2df6a1bafb1c8fa561c0c5af8ee43e4855820153686502eaedd70dc0c3dac8da"
+    "bytes": 2140828,
+    "sha256": "0d7f15f037c6819784507ffdd059ca5c8e8b2eb622b63ebaf3018366846fa2c5"
   }
 ]
