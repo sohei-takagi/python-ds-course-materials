@@ -81,8 +81,8 @@
   },
   {
     "path": "practice/16_prediction.ipynb",
-    "bytes": 19498,
-    "sha256": "2842a52ba9c1a3b1f0314e73214ab06c7ee18168e85f32ac457630d986905eee"
+    "bytes": 19522,
+    "sha256": "ac3fbe141227e761853438a9e9c58f4af1009eff6a523302fbb23970909727c5"
   },
   {
     "path": "practice/17_linear_regression.ipynb",
@@ -96,8 +96,8 @@
   },
   {
     "path": "practice/19_validation.ipynb",
-    "bytes": 21867,
-    "sha256": "b009381b36a4b42d1cacab6f7476faf88fad7e1127d832ea9fce0c3cb3ab3842"
+    "bytes": 22870,
+    "sha256": "decf3be07071e946b69c493fe7e4da9cb1248ff1f1105c73354914cdbbddd5d3"
   },
   {
     "path": "practice/20_decision_tree.ipynb",
@@ -241,7 +241,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2411476,
-    "sha256": "2677dbadae643308181c8e848afc0366bb36860a7b084a773d9d55d90b9c91f0"
+    "bytes": 2411647,
+    "sha256": "0872f8b1337b423dd656defe38bcd7728a68b71f710cb1a49c13d869534cf34a"
   }
 ]
