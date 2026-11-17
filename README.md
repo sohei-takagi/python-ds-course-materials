@@ -45,6 +45,8 @@ Google アカウントでログインし，「ファイル → ドライブに�
 | 第 26 章　実験と因果推論 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/26_causal_inference.ipynb) | [.ipynb](practice/26_causal_inference.ipynb) |
 | 第 27 章 調査と分析の設計 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/27_inquiry_design.ipynb) | [.ipynb](practice/27_inquiry_design.ipynb) |
 | 第 28 章　分析の比較と選択 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/28_analysis_choices.ipynb) | [.ipynb](practice/28_analysis_choices.ipynb) |
+| 第 29 章 分析の検証と改訂 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/29_validation_revision.ipynb) | [.ipynb](practice/29_validation_revision.ipynb) |
+| 第 30 章　結果の報告 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/30_reporting.ipynb) | [.ipynb](practice/30_reporting.ipynb) |
 
 ## 自分の PC で使う
 

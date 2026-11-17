@@ -145,6 +145,16 @@
     "sha256": "fc474f61df65fca57c4608a32d687ded676fb02d5d1702370b69e5598110c766"
   },
   {
+    "path": "practice/29_validation_revision.ipynb",
+    "bytes": 25650,
+    "sha256": "b8dce13d1e162cadce051073658d60044b82c5f6ab7b8d251a00a3b0f7205d07"
+  },
+  {
+    "path": "practice/30_reporting.ipynb",
+    "bytes": 21743,
+    "sha256": "787c264317ef45ac1acb9923006a30f65cbf33c0b93df12d0e3dc8353b54006c"
+  },
+  {
     "path": "practice/requirements.txt",
     "bytes": 66,
     "sha256": "50300fbd4b82dcccdb047e5435a4d88daad7f875782c5dee4233f0b3d7cdd3b7"
@@ -261,7 +271,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2442742,
-    "sha256": "b533b9dd70204346fb0f048568b48ca1b1c8313b6ee658fe3dd21cea6c61e519"
+    "bytes": 2457676,
+    "sha256": "6daf98db7c6d5aa8b2c9625273efc25b3a12a4e0a62dac89d25b0a2f1987d144"
   }
 ]
