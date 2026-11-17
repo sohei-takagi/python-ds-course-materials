@@ -34,6 +34,8 @@ Google アカウントでログインし，「ファイル → ドライブに�
 | 第 15 章　分析の統合 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/15_inquiry.ipynb) | [.ipynb](practice/15_inquiry.ipynb) |
 | 第 16 章　予測課題と検証 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/16_prediction.ipynb) | [.ipynb](practice/16_prediction.ipynb) |
 | 第 17 章　線形回帰 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/17_linear_regression.ipynb) | [.ipynb](practice/17_linear_regression.ipynb) |
+| 第 18 章　重回帰と特徴量 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/18_features.ipynb) | [.ipynb](practice/18_features.ipynb) |
+| 第 19 章　前処理と交差検証 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/19_validation.ipynb) | [.ipynb](practice/19_validation.ipynb) |
 
 ## 自分の PC で使う
 
