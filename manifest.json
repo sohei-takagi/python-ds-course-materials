@@ -266,12 +266,12 @@
   },
   {
     "path": "data/README.md",
-    "bytes": 989,
-    "sha256": "037b1a3e4ac8f9250028cdad10279ffc517d7113a549cb61a35373c1b4a2772d"
+    "bytes": 995,
+    "sha256": "ddb96e8d97876dbaaece0e7848fde8490bdf0362b280afaa0cefeac6807f3276"
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2457979,
-    "sha256": "0cad26dfc8e8375252bd0c2f0144502573b8687d61e50ab916a1fb2fab6ad91b"
+    "bytes": 2457986,
+    "sha256": "4d0d7a104f3ba406246f0088c02a3ea20cb657084d61470ff13094a3fed59b63"
   }
 ]
