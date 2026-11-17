@@ -11,8 +11,8 @@
   },
   {
     "path": "practice/02_tables.ipynb",
-    "bytes": 28460,
-    "sha256": "b24a335ec10d498c340069d8cf6cad1a0e7da07e24fbfd9a192b80a16a8e71f3"
+    "bytes": 28746,
+    "sha256": "9bb1db887c6946f652cf1222fd8b6dc86e514f555fa3d7b8f29f1ff49bf4f1e5"
   },
   {
     "path": "practice/03_distributions.ipynb",
@@ -76,8 +76,8 @@
   },
   {
     "path": "practice/15_inquiry.ipynb",
-    "bytes": 40588,
-    "sha256": "c5de999fec67423cae7c0038b0283998d4b216ac8d1cdb6f5c46d94349f18a20"
+    "bytes": 41451,
+    "sha256": "a7169124fd30d4fae3defe3b34bf826944996fef868f11a8ee24e42e99116659"
   },
   {
     "path": "practice/16_prediction.ipynb",
@@ -136,8 +136,8 @@
   },
   {
     "path": "practice/27_inquiry_design.ipynb",
-    "bytes": 23484,
-    "sha256": "93b3886b2b25ad0898e22555e080683d3cf68c592e4a373fe0db18b1d78aea31"
+    "bytes": 24047,
+    "sha256": "754d0c44123805112614c6e1868f45d7c5177bc988130af9a7700b959a76f368"
   },
   {
     "path": "practice/28_analysis_choices.ipynb",
@@ -151,8 +151,8 @@
   },
   {
     "path": "practice/30_reporting.ipynb",
-    "bytes": 21743,
-    "sha256": "787c264317ef45ac1acb9923006a30f65cbf33c0b93df12d0e3dc8353b54006c"
+    "bytes": 22760,
+    "sha256": "d75300b46faa50275b1f12245f2e2ac0fe7d86570818b0270b506df9589ea79d"
   },
   {
     "path": "practice/requirements.txt",
@@ -271,7 +271,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2457986,
-    "sha256": "4d0d7a104f3ba406246f0088c02a3ea20cb657084d61470ff13094a3fed59b63"
+    "bytes": 2458950,
+    "sha256": "a0c8db6bc9209b269d1d8efee96beb1a396d00337860d0eeeab6eeee69625b46"
   }
 ]
