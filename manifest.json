@@ -126,8 +126,8 @@
   },
   {
     "path": "practice/25_model_diagnostics.ipynb",
-    "bytes": 26361,
-    "sha256": "029b764da506ed448e52b0a31c03018491acabcdcaed7cc05f6485021712876c"
+    "bytes": 26362,
+    "sha256": "1ea4868f89de73d5dd1350902e6c1bae9818abd0afd9660092709a919a45a8b5"
   },
   {
     "path": "practice/requirements.txt",
@@ -246,7 +246,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2420137,
-    "sha256": "ae4088db1bec0427a5fa5ffc16929aae5239e616b4e2b52463abb207dc96d1f1"
+    "bytes": 2420139,
+    "sha256": "5dbcf9171576356682f4e7fef78b7a3000db8a0a7cf621c117dc81e8c8b1ade4"
   }
 ]
