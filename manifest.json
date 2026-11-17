@@ -106,13 +106,13 @@
   },
   {
     "path": "practice/21_random_forest.ipynb",
-    "bytes": 23130,
-    "sha256": "2c6e3372598bf540688dff78fc94dd8add4e9039fb025060637b18b539091034"
+    "bytes": 23134,
+    "sha256": "e3201886e71d9b93397c9af7f1352d316fa388462803e5f4ac3da265c6d474fa"
   },
   {
     "path": "practice/22_boosting.ipynb",
-    "bytes": 32265,
-    "sha256": "a706e5882e05184d6183bd12db904f72286aa91a2c31b17f3f25b581ffbd9a6b"
+    "bytes": 31557,
+    "sha256": "5c08b39373f7e01001f502d9ca7c139bb54434f835511e0eb74a78562ecda962"
   },
   {
     "path": "practice/23_logistic_regression.ipynb",
@@ -131,8 +131,8 @@
   },
   {
     "path": "practice/26_causal_inference.ipynb",
-    "bytes": 22130,
-    "sha256": "78c00b7346ff2873c01f18c71792b93585e115283e2741de9e07a269cfba9780"
+    "bytes": 22582,
+    "sha256": "e5ba74692d1b5d5da2468fc3fb1b901c93d4cd5184fee58382c12cd40108be0c"
   },
   {
     "path": "practice/27_inquiry_design.ipynb",
@@ -141,8 +141,8 @@
   },
   {
     "path": "practice/28_analysis_choices.ipynb",
-    "bytes": 26161,
-    "sha256": "fc474f61df65fca57c4608a32d687ded676fb02d5d1702370b69e5598110c766"
+    "bytes": 26185,
+    "sha256": "d7a17734c6fdcf1ea649d9533f591d81536ee500237cb43c36e3c3f8c34b1092"
   },
   {
     "path": "practice/29_validation_revision.ipynb",
@@ -271,7 +271,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2457845,
-    "sha256": "514972347abc380345abf4129e848370a6d1030cd1ba4d1593e742a2ed4b0641"
+    "bytes": 2458046,
+    "sha256": "9ac027b03ecf52f4bf78d4312b79b1054cbc4e53811bcbe6696773d0c829c13c"
   }
 ]
