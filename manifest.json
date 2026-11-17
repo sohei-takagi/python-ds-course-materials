@@ -6,28 +6,28 @@
   },
   {
     "path": "practice/01_python.ipynb",
-    "bytes": 31750,
-    "sha256": "6a12c980e91402ec2a99c897a8005acb675f3f78411498eea795a4bbf3b78c96"
+    "bytes": 30894,
+    "sha256": "e7c2c1c6e976cddc2ad99bb0e994bd57d85abb83ab34348d742305ac1936a21d"
   },
   {
     "path": "practice/02_tables.ipynb",
-    "bytes": 29228,
-    "sha256": "9d45d2fd6edb8e1959519327d30335474b0db4484f801ddef3602706aad6cafd"
+    "bytes": 28460,
+    "sha256": "b24a335ec10d498c340069d8cf6cad1a0e7da07e24fbfd9a192b80a16a8e71f3"
   },
   {
     "path": "practice/03_distributions.ipynb",
-    "bytes": 27455,
-    "sha256": "61d0e83878f3924c8c1225475974d5eda4e5d6b1b98f02c8274685082168f8f4"
+    "bytes": 26717,
+    "sha256": "c801dd5c498da19e5189eadfd548ce9e4b81e186d768c5b9b89486541b15fa7c"
   },
   {
     "path": "practice/flight-rankings.ipynb",
-    "bytes": 29197,
-    "sha256": "bc978abe43e4026af5b876d01dc1c6ccdfd087c50b42e3ba5cd5ff64bde3496b"
+    "bytes": 28473,
+    "sha256": "b07c97748bd946d08e077d6e8df215a3b0f189bb3cba11483e588f4456c95037"
   },
   {
     "path": "practice/05_measurement.ipynb",
-    "bytes": 22245,
-    "sha256": "ce68425b8508c6eb187fc4ddba55783770a6118413eb0c208a1671816841c7ae"
+    "bytes": 21730,
+    "sha256": "c751805d31eed6c4597a9f0689fa7c71c2f739b9f6e29046f481f5da7df9aac7"
   },
   {
     "path": "practice/06_joins.ipynb",
@@ -81,23 +81,23 @@
   },
   {
     "path": "practice/16_prediction.ipynb",
-    "bytes": 19963,
-    "sha256": "b0e7dba687902e3fe86846d0a91856eab8c377cf209fa4c051db9382f2a2ccef"
+    "bytes": 19993,
+    "sha256": "7aff7ced3f0d8f48050955539a39c6fe18c1a701041eaec2a43f4f6e09c988f3"
   },
   {
     "path": "practice/17_linear_regression.ipynb",
-    "bytes": 19142,
-    "sha256": "8cc400ebd488d00f0f0df8fd207cb833fb68a25ea13fd74c64d42752b8cdd782"
+    "bytes": 19154,
+    "sha256": "8cafac6ed9ad29f31cc50281ffc67420601a0858f1c15d10b281684ab9b1793a"
   },
   {
     "path": "practice/18_features.ipynb",
-    "bytes": 20849,
-    "sha256": "08f366aa7bcfdcd6212cb802b43efc88bb15a5afc818044f3e997a8cf8f95f1f"
+    "bytes": 20418,
+    "sha256": "5ef1c01f1f25300147cc432998db95d33712edfcdc588a921a27bcf223446779"
   },
   {
     "path": "practice/19_validation.ipynb",
-    "bytes": 22870,
-    "sha256": "decf3be07071e946b69c493fe7e4da9cb1248ff1f1105c73354914cdbbddd5d3"
+    "bytes": 22375,
+    "sha256": "be8be2f13206429a6298bdf25c0fdd7758891fd9f3022472909e34af64372cde"
   },
   {
     "path": "practice/20_decision_tree.ipynb",
@@ -131,8 +131,8 @@
   },
   {
     "path": "practice/26_causal_inference.ipynb",
-    "bytes": 22582,
-    "sha256": "e5ba74692d1b5d5da2468fc3fb1b901c93d4cd5184fee58382c12cd40108be0c"
+    "bytes": 22606,
+    "sha256": "113c03c25e02695871b65b973fcd8da8f2eeb57bdf85b6bc17c38b904f3a9ebe"
   },
   {
     "path": "practice/27_inquiry_design.ipynb",
@@ -271,7 +271,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2458046,
-    "sha256": "9ac027b03ecf52f4bf78d4312b79b1054cbc4e53811bcbe6696773d0c829c13c"
+    "bytes": 2457979,
+    "sha256": "0cad26dfc8e8375252bd0c2f0144502573b8687d61e50ab916a1fb2fab6ad91b"
   }
 ]

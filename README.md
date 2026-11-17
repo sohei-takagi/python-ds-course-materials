@@ -17,11 +17,11 @@ Google アカウントでログインし，「ファイル → ドライブに�
 | 回・内容 | ブラウザーで実行 | ファイル |
 | --- | --- | --- |
 | 実行環境の確認 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/00_environment.ipynb) | [.ipynb](practice/00_environment.ipynb) |
-| 春第 1 回｜データ分析と Python | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/01_python.ipynb) | [.ipynb](practice/01_python.ipynb) |
-| 春第 2 回｜表データと条件抽出 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/02_tables.ipynb) | [.ipynb](practice/02_tables.ipynb) |
-| 春第 3 回｜分布と欠損値 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/03_distributions.ipynb) | [.ipynb](practice/03_distributions.ipynb) |
-| 春第 4 回｜グループ集計と割合 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/flight-rankings.ipynb) | [.ipynb](practice/flight-rankings.ipynb) |
-| 春第 5 回｜測定とデータの来歴 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/05_measurement.ipynb) | [.ipynb](practice/05_measurement.ipynb) |
+| 春学期第 1 回｜データ分析と Python | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/01_python.ipynb) | [.ipynb](practice/01_python.ipynb) |
+| 春学期第 2 回｜表データと条件抽出 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/02_tables.ipynb) | [.ipynb](practice/02_tables.ipynb) |
+| 春学期第 3 回｜分布と欠損値 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/03_distributions.ipynb) | [.ipynb](practice/03_distributions.ipynb) |
+| 春学期第 4 回｜グループ集計と割合 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/flight-rankings.ipynb) | [.ipynb](practice/flight-rankings.ipynb) |
+| 春学期第 5 回｜測定とデータの来歴 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/05_measurement.ipynb) | [.ipynb](practice/05_measurement.ipynb) |
 | 第 6 章の講義と実習　表の結合 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/06_joins.ipynb) | [.ipynb](practice/06_joins.ipynb) |
 | 第 7 章の講義と実習　比較の可視化 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/07_visual_comparison.ipynb) | [.ipynb](practice/07_visual_comparison.ipynb) |
 | 第 8 章の講義と実習　標本抽出と偏り | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/08_sampling.ipynb) | [.ipynb](practice/08_sampling.ipynb) |
