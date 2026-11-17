@@ -111,8 +111,8 @@
   },
   {
     "path": "practice/22_boosting.ipynb",
-    "bytes": 31380,
-    "sha256": "3448248f3cb821f90fd5980a741a8a719b1db3380579d8c52c2a5f15e833b2e3"
+    "bytes": 32265,
+    "sha256": "a706e5882e05184d6183bd12db904f72286aa91a2c31b17f3f25b581ffbd9a6b"
   },
   {
     "path": "practice/23_logistic_regression.ipynb",
@@ -123,6 +123,11 @@
     "path": "practice/24_classification_metrics.ipynb",
     "bytes": 19463,
     "sha256": "9659315e49223955850fb2cee61c9f43a9fdf28e4cf7c3f13717d641f102a959"
+  },
+  {
+    "path": "practice/25_model_diagnostics.ipynb",
+    "bytes": 26361,
+    "sha256": "029b764da506ed448e52b0a31c03018491acabcdcaed7cc05f6485021712876c"
   },
   {
     "path": "practice/requirements.txt",
@@ -241,7 +246,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2411647,
-    "sha256": "0872f8b1337b423dd656defe38bcd7728a68b71f710cb1a49c13d869534cf34a"
+    "bytes": 2420137,
+    "sha256": "ae4088db1bec0427a5fa5ffc16929aae5239e616b4e2b52463abb207dc96d1f1"
   }
 ]

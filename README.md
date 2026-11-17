@@ -38,9 +38,10 @@ Google アカウントでログインし，「ファイル → ドライブに�
 | 第 19 章　前処理と交差検証 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/19_validation.ipynb) | [.ipynb](practice/19_validation.ipynb) |
 | 第 20 章　決定木 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/20_decision_tree.ipynb) | [.ipynb](practice/20_decision_tree.ipynb) |
 | 第 21 章　ランダムフォレスト | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/21_random_forest.ipynb) | [.ipynb](practice/21_random_forest.ipynb) |
-| 第22章 勾配ブースティング | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/22_boosting.ipynb) | [.ipynb](practice/22_boosting.ipynb) |
+| 第 22 章 勾配ブースティング | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/22_boosting.ipynb) | [.ipynb](practice/22_boosting.ipynb) |
 | 第 23 章　ロジスティック回帰 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/23_logistic_regression.ipynb) | [.ipynb](practice/23_logistic_regression.ipynb) |
 | 第 24 章　分類の評価と閾値 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/24_classification_metrics.ipynb) | [.ipynb](practice/24_classification_metrics.ipynb) |
+| 第 25 章 モデルの診断 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/25_model_diagnostics.ipynb) | [.ipynb](practice/25_model_diagnostics.ipynb) |
 
 ## 自分の PC で使う
 
