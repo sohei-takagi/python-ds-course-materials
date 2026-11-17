@@ -43,6 +43,8 @@ Google アカウントでログインし，「ファイル → ドライブに�
 | 第 24 章　分類の評価と閾値 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/24_classification_metrics.ipynb) | [.ipynb](practice/24_classification_metrics.ipynb) |
 | 第 25 章 モデルの診断 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/25_model_diagnostics.ipynb) | [.ipynb](practice/25_model_diagnostics.ipynb) |
 | 第 26 章　実験と因果推論 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/26_causal_inference.ipynb) | [.ipynb](practice/26_causal_inference.ipynb) |
+| 第 27 章 調査と分析の設計 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/27_inquiry_design.ipynb) | [.ipynb](practice/27_inquiry_design.ipynb) |
+| 第 28 章　分析の比較と選択 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/28_analysis_choices.ipynb) | [.ipynb](practice/28_analysis_choices.ipynb) |
 
 ## 自分の PC で使う
 
