@@ -130,6 +130,11 @@
     "sha256": "1ea4868f89de73d5dd1350902e6c1bae9818abd0afd9660092709a919a45a8b5"
   },
   {
+    "path": "practice/26_causal_inference.ipynb",
+    "bytes": 22130,
+    "sha256": "78c00b7346ff2873c01f18c71792b93585e115283e2741de9e07a269cfba9780"
+  },
+  {
     "path": "practice/requirements.txt",
     "bytes": 66,
     "sha256": "50300fbd4b82dcccdb047e5435a4d88daad7f875782c5dee4233f0b3d7cdd3b7"
@@ -246,7 +251,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2420139,
-    "sha256": "5dbcf9171576356682f4e7fef78b7a3000db8a0a7cf621c117dc81e8c8b1ade4"
+    "bytes": 2427263,
+    "sha256": "5a2bb1342fe790490ec9cd01e621895264d12d26a33a598ebc341df948277333"
   }
 ]
