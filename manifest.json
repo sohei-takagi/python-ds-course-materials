@@ -106,23 +106,23 @@
   },
   {
     "path": "practice/21_random_forest.ipynb",
-    "bytes": 22670,
-    "sha256": "a20602d1f1fb9061d29698d9ca1935c026b5dcac5c3a0d19d3efca695cba4c86"
+    "bytes": 23130,
+    "sha256": "2c6e3372598bf540688dff78fc94dd8add4e9039fb025060637b18b539091034"
   },
   {
     "path": "practice/22_boosting.ipynb",
-    "bytes": 31746,
-    "sha256": "763533771056c363dcd495719bbfcde67d47cf1331f29073f3cf5673221d7fcd"
+    "bytes": 31380,
+    "sha256": "3448248f3cb821f90fd5980a741a8a719b1db3380579d8c52c2a5f15e833b2e3"
   },
   {
     "path": "practice/23_logistic_regression.ipynb",
-    "bytes": 22576,
-    "sha256": "0a480298cbbd16225c10155d0110892000acaa4148da552db965608b04b92030"
+    "bytes": 22875,
+    "sha256": "868bd54f48c64411043189ee0486f68ec24058bb19f21b2cbf6d04bf75b388ef"
   },
   {
     "path": "practice/24_classification_metrics.ipynb",
-    "bytes": 19312,
-    "sha256": "726573b0fdd448c8930a33a784a5bfc57e7592d94ac4a0e13913293f2dd81fd7"
+    "bytes": 19463,
+    "sha256": "9659315e49223955850fb2cee61c9f43a9fdf28e4cf7c3f13717d641f102a959"
   },
   {
     "path": "practice/requirements.txt",
@@ -241,7 +241,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2411058,
-    "sha256": "cf50ac4d43be7964e56d7cecd2e587888e28c69b6f197d1c66de1a7c2bb47217"
+    "bytes": 2411476,
+    "sha256": "2677dbadae643308181c8e848afc0366bb36860a7b084a773d9d55d90b9c91f0"
   }
 ]
