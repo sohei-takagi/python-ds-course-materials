@@ -36,6 +36,9 @@ Google アカウントでログインし，「ファイル → ドライブに�
 | 第 17 章　線形回帰 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/17_linear_regression.ipynb) | [.ipynb](practice/17_linear_regression.ipynb) |
 | 第 18 章　重回帰と特徴量 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/18_features.ipynb) | [.ipynb](practice/18_features.ipynb) |
 | 第 19 章　前処理と交差検証 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/19_validation.ipynb) | [.ipynb](practice/19_validation.ipynb) |
+| 第 20 章　決定木 | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/20_decision_tree.ipynb) | [.ipynb](practice/20_decision_tree.ipynb) |
+| 第 21 章　ランダムフォレスト | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/21_random_forest.ipynb) | [.ipynb](practice/21_random_forest.ipynb) |
+| 第22章 勾配ブースティング | [Colab で開く](https://colab.research.google.com/github/sohei-takagi/python-ds-course-materials/blob/main/practice/22_boosting.ipynb) | [.ipynb](practice/22_boosting.ipynb) |
 
 ## 自分の PC で使う
 
