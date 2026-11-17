@@ -86,8 +86,8 @@
   },
   {
     "path": "practice/17_linear_regression.ipynb",
-    "bytes": 19154,
-    "sha256": "8cafac6ed9ad29f31cc50281ffc67420601a0858f1c15d10b281684ab9b1793a"
+    "bytes": 19737,
+    "sha256": "66e2268e4bb8ef608fb24a83dc598e7deef9a20a7199927f43ba57ca06bb4cdb"
   },
   {
     "path": "practice/18_features.ipynb",
@@ -271,7 +271,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2458950,
-    "sha256": "a0c8db6bc9209b269d1d8efee96beb1a396d00337860d0eeeab6eeee69625b46"
+    "bytes": 2459164,
+    "sha256": "9331797f606fdd229372add72aaaef180f5449910fe58bd18089484191b66886"
   }
 ]
