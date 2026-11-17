@@ -106,13 +106,23 @@
   },
   {
     "path": "practice/21_random_forest.ipynb",
-    "bytes": 20107,
-    "sha256": "18cccedeb0521c510b901e38b2084fc23bd59eed2957763fc050a1e629d2232d"
+    "bytes": 22670,
+    "sha256": "a20602d1f1fb9061d29698d9ca1935c026b5dcac5c3a0d19d3efca695cba4c86"
   },
   {
     "path": "practice/22_boosting.ipynb",
-    "bytes": 26474,
-    "sha256": "d9396df7143f0cd3ddaa10f07023ca3501d67befe05277de4ec1a7ca436cdad1"
+    "bytes": 31746,
+    "sha256": "763533771056c363dcd495719bbfcde67d47cf1331f29073f3cf5673221d7fcd"
+  },
+  {
+    "path": "practice/23_logistic_regression.ipynb",
+    "bytes": 22576,
+    "sha256": "0a480298cbbd16225c10155d0110892000acaa4148da552db965608b04b92030"
+  },
+  {
+    "path": "practice/24_classification_metrics.ipynb",
+    "bytes": 19312,
+    "sha256": "726573b0fdd448c8930a33a784a5bfc57e7592d94ac4a0e13913293f2dd81fd7"
   },
   {
     "path": "practice/requirements.txt",
@@ -205,6 +215,16 @@
     "sha256": "87407b76aed8ca2b0c3a79999d7474b44c1386cf5cfa20c561b1f58b53955daa"
   },
   {
+    "path": "data/rice-grains.csv",
+    "bytes": 473167,
+    "sha256": "f6d8aa95dce495a58e56d9624319ec1e2826aa2a554347e4afa7beac091ec5b3"
+  },
+  {
+    "path": "data/rice-sources.md",
+    "bytes": 6244,
+    "sha256": "3fb385f2cd43ba4084e49b86c25651cc02cf790639c68c162bd394f045ce5f45"
+  },
+  {
     "path": "data/jma-temperature-2024-08.csv",
     "bytes": 2478,
     "sha256": "d056c7cbab0677559a9004c61434442b4248184a0e2615f7bf9e3506ddba1b18"
@@ -221,7 +241,7 @@
   },
   {
     "path": "practice/book-practice.zip",
-    "bytes": 2208717,
-    "sha256": "21b3b7bc4cab044dd49affffd825eac733d5e4db861c6604393c6f6b3f9b7386"
+    "bytes": 2411058,
+    "sha256": "cf50ac4d43be7964e56d7cecd2e587888e28c69b6f197d1c66de1a7c2bb47217"
   }
 ]
